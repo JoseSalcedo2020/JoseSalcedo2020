@@ -5,7 +5,7 @@
 - 📚 Soy Ingeniero y desarrollador web.
 - 🛠 Actualmente estoy mejorando y aprendiendo nuevas habilidades en desarrollo web.
 - 🔎 Busco colaborar en proyectos que ayuden a los demas y me ayuden a crecer en esta gran industria.
-- 📫 Como contactarme: `https://www.linkedin.com/in/jose-salcedo-/`
+- 📫 Como contactarme: https://www.linkedin.com/in/jose-salcedo-/
 
 
 ### Skills
