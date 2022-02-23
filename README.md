@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**JoseSalcedo2020/JoseSalcedo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Soy Ingeniero y desarrollador web.
+- 🛠 Actualmente estoy mejorando y aprendiendo nuevas habilidades en desarrollo web.
+- 🔎 Busco colaborar en proyectos que ayuden a los demas y me ayuden a crecer en esta gran industria.
+- 📫 Como contactarme: `https://www.linkedin.com/in/jose-salcedo-/`
+
+
+### Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![SCRUM](https://img.shields.io/badge/-SCRUM-000?&logo=)
