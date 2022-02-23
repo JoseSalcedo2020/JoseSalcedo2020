@@ -15,5 +15,4 @@
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-000?&logo=)
